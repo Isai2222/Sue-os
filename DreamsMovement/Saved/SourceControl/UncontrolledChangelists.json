@@ -9,7 +9,16 @@
 				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/FirstPerson/Input/IMC_Default.uasset",
-				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/Interface/WBP_StaminaBar.uasset"
+				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/Interface/WBP_StaminaBar.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/Interface/WBP_StaminaBar.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Headbob/Run.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Headbob/Ron.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Headbob/Sprint.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Headbob/Idle.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/FirstPerson/Headbob/Walk.uasset",
+				"C:/Users/alero/OneDrive/Documents/GitHub/Sue-os/DreamsMovement/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
