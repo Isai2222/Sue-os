@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ville/OneDrive/Desktop/SISTEMASOPERATIVOS/Sue-os/DreamsMovement/Content/Interface/Interaccion.uasset",
 				"C:/Users/ville/OneDrive/Desktop/SISTEMASOPERATIVOS/Sue-os/DreamsMovement/Content/Interface/BPI_Interaccion.uasset",
 				"C:/Users/ville/OneDrive/Desktop/SISTEMASOPERATIVOS/Sue-os/DreamsMovement/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -27,6 +28,9 @@
 				"C:/Users/ville/OneDrive/Desktop/SISTEMASOPERATIVOS/Sue-os/DreamsMovement/Content/Interface/wooden-door/textures/Material_001_AO.uasset",
 				"C:/Users/ville/OneDrive/Desktop/SISTEMASOPERATIVOS/Sue-os/DreamsMovement/Content/Interface/wooden-door/textures/Material_001_normal.uasset",
 				"C:/Users/ville/OneDrive/Desktop/SISTEMASOPERATIVOS/Sue-os/DreamsMovement/Content/Interface/wooden-door/textures/Material_001_roughness.uasset",
+=======
+				"C:/Users/almon/Downloads/FUNDAMENTOS/Sue-os/DreamsMovement/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/alero/Documents/8VO SEMESTRE/DESARROLLO DE VIDEOJUEGOS/DreamsDev/DreamsMovement/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
